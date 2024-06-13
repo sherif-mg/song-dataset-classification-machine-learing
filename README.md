@@ -1,7 +1,7 @@
 # song-dataset-classification-machine-learing
 SVM is a supervised learning algorithm used for classification tasks. It works by finding the optimal hyperplane that separates different classes in the feature space. For non-linearly separable data, SVM uses kernel functions to map the data into a higher-dimensional space.
 
-**Dataset Description**</br></br>  
+**Dataset Description**</br>
  &nbsp;&nbsp; **Song Dataset**</br>
  &nbsp;&nbsp;&nbsp;&nbsp; The dataset includes features such as tempo, key, and duration of songs.</br>
  &nbsp;&nbsp; &nbsp;&nbsp;    The goal is to classify songs into different genres or categories.
